@@ -17,3 +17,4 @@ There is no information for this level, intentionally.
 - It seems putchar is being used to print out the contents of the file. We could exploit this to print out the contents of out /etc/pass file. Lets try using a symbolic link named file.log, as it is what the program looks for
  ![image](https://user-images.githubusercontent.com/44790709/201445106-35eca960-d769-445e-b854-4ea5014e7a94.png)
   
+ 
