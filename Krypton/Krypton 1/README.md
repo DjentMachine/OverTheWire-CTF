@@ -1,4 +1,4 @@
-# Krypton Level 0 
+# Krypton Level 0 → Level 1
  
 ## LEVEL GOAL
 
