@@ -1,4 +1,4 @@
-# Bandit 4
+# Bandit 3 → 4
  
 ## LEVEL GOAL
 
