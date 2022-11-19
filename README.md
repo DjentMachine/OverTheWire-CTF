@@ -10,7 +10,7 @@ Writeups for the levels (of increasing difficulty) can be found below. So far, m
 
 **Natas** - TODO (finishing other challenges before starting this one)
 
-**Krypton** - TODO (finishing other challenges before starting this one)
+**Krypton** - [In progress...](https://github.com/DjentMachine/OverTheWire-CTF/tree/main/Krypton) 
 
 **Narnia** - TODO (finishing other challenges before starting this one)
 
