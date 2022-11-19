@@ -8,4 +8,3 @@ The password for the next level can be retrieved by submitting the password of t
   ![image](https://user-images.githubusercontent.com/44790709/202873442-3273916a-7b61-41ed-b733-de6ec108b728.png)
 
 - Et voilá
- 
