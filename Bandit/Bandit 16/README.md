@@ -11,8 +11,8 @@ Helpful note: Getting “HEARTBEATING” and “Read R BLOCK”? Use -ign_eof an
  ![image](https://user-images.githubusercontent.com/44790709/203338940-f9ff65ba-4785-489f-b811-37ab36b2041c.png)
 
 - We're asked for a prompt after the 'Read R BLOCK' message. Lets give it the password                
- ![image](https://user-images.githubusercontent.com/44790709/203339249-cd143378-f936-4395-9e29-e8b834b3d0fd.png)
-
+ ![image](https://user-images.githubusercontent.com/44790709/203341441-34e854aa-50a2-42b1-9354-3e0f63f0f501.png)
+ 
 - Et voilá
 
  
