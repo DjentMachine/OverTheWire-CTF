@@ -7,5 +7,12 @@ Helpful note: Getting “HEARTBEATING” and “Read R BLOCK”? Use -ign_eof an
 
 ## SOLUTION
 
+- Since we're asked to connect using ssl/tsl encryption, we can use openssl to do so. Lets use local host and port 30001. We might as well use the s_clients' -ign_eof flag as suggested.
+ ![image](https://user-images.githubusercontent.com/44790709/203338940-f9ff65ba-4785-489f-b811-37ab36b2041c.png)
+
+- We're asked for a prompt after the 'Read R BLOCK' message. Lets give it the password                
+ ![image](https://user-images.githubusercontent.com/44790709/203339249-cd143378-f936-4395-9e29-e8b834b3d0fd.png)
+
+- Et voilá
 
  
