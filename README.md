@@ -12,7 +12,7 @@ Writeups for the levels (of increasing difficulty) can be found below. So far, m
 
 **Krypton** - crypto<br /> [In progress...](https://github.com/DjentMachine/OverTheWire-CTF/tree/main/Krypton) 
 
-**Narnia** - pwd<br /> TODO (finishing other challenges before starting this one)
+**Narnia** - pwd<br /> [In progress...](https://github.com/DjentMachine/OverTheWire-CTF/tree/main/Narnia) 
 
 **Behemoth** - pwd<br /> [In progress...](https://github.com/DjentMachine/OverTheWire-CTF/tree/main/Behemoth)
 
