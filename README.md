@@ -8,7 +8,7 @@ Writeups for the levels (of increasing difficulty) can be found below. So far, m
 
 **Leviathan** - pwn | basic suid exploitation <br /> [Completed!](https://github.com/DjentMachine/OverTheWire-CTF/tree/main/Leviathan)
 
-**Natas** - web | several webapp security challanges<br /> TODO (finishing other challenges before starting this one)
+**Natas** - web | several webapp security challanges<br /> [In progress...](https://github.com/DjentMachine/OverTheWire-CTF/tree/main/Natas) 
 
 **Krypton** - crypto<br /> [In progress...](https://github.com/DjentMachine/OverTheWire-CTF/tree/main/Krypton) 
 
