@@ -1,6 +1,6 @@
 # Natas Level 1 → Level 2
 
-Username: natas2
+Username: natas2 <br>
 URL:      http://natas2.natas.labs.overthewire.org
 
 ## SOLUTION
