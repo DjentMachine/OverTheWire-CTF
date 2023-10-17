@@ -4,7 +4,7 @@ Username: natas11 <br>
 URL:      http://natas11.natas.labs.overthewire.org
 
 ## SOLUTION
-
+ 
 - After a quick log in, we can now change the background colour of our page. Our first hint lies on cookies being protected by XOR encryption. Furthermore, we are once again offered the oportunity to peak into the source code which gives us some interesting findings:
 
 ![image](https://github.com/DjentMachine/OverTheWire-CTF/assets/44790709/b19c15d5-2ccd-4023-8c40-1d0c1d209de3)
