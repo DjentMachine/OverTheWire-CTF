@@ -52,6 +52,6 @@ URL:      http://natas11.natas.labs.overthewire.org
 
 - We set our background to any color and...
    
-![image](https://github.com/DjentMachine/OverTheWire-CTF/assets/44790709/b70eb2e5-d343-49ca-bd53-2f1dce051761)
+![image](https://github.com/DjentMachine/OverTheWire-CTF/assets/44790709/4078f198-2295-4d96-9c60-a8a24f1bf939)
 
 - Voilá
