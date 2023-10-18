@@ -36,15 +36,12 @@ URL:      http://natas12.natas.labs.overthewire.org
 - Now we actually have a txt file being uploaded and we can even check it's contents!
   ![image](https://github.com/DjentMachine/OverTheWire-CTF/assets/44790709/36d70345-396a-4cea-87c3-6faceddf8832)
   ![image](https://github.com/DjentMachine/OverTheWire-CTF/assets/44790709/be09e7f3-aa05-4499-beeb-d95e96254cff)
-
 - All we need now is to actually upload something that allows us to get the password for the next level. We could try using a .php file which uses "system" to run bash commands such as cat. Something like "<?php echo system(\"cat /etc/natas_webpass/natas13\"); ?>". Lets try this:
   ![image](https://github.com/DjentMachine/OverTheWire-CTF/assets/44790709/624ce4c9-c9d5-431d-a565-84edf53971be)
 
 - We upload our .php file, "filename" is generated as "rwxwgp5101.jpg", we manually change its extention to .php in burp, and wait for the results:
+
 ![image](https://github.com/DjentMachine/OverTheWire-CTF/assets/44790709/ca90e230-5a0a-4819-b571-ea3a520b6876)
 ![image](https://github.com/DjentMachine/OverTheWire-CTF/assets/44790709/b999dcc6-7223-47df-90a3-a43c8c553c89)
 
 - Et voilá
-
-
-
