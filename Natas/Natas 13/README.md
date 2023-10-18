@@ -42,6 +42,6 @@ URL:      http://natas12.natas.labs.overthewire.org
 - We upload our .php file, "filename" is generated as "rwxwgp5101.jpg", we manually change its extention to .php in burp, and wait for the results:
 
 ![image](https://github.com/DjentMachine/OverTheWire-CTF/assets/44790709/ca90e230-5a0a-4819-b571-ea3a520b6876)
-![image](https://github.com/DjentMachine/OverTheWire-CTF/assets/44790709/b999dcc6-7223-47df-90a3-a43c8c553c89)
+![image](https://github.com/DjentMachine/OverTheWire-CTF/assets/44790709/e5fe5076-3357-4be9-93ee-136b9ac45e38)
 
 - Et voilá
